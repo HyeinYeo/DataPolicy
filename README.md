@@ -8,7 +8,7 @@
 |:--------:|:--------:|:------------:|:----------:|
 |03/06|    01    |    강의소개; 4차 산업혁명과 데이터 과학     | :white_check_mark: Finished |
 |03/13|    02    | 빅데이터와 정책; 빅데이터의 이해와 활용|  :white_check_mark: Finished         |
-|03/20|    03    | 데이터 과학 기반의 빅데이터 분석; 파이썬 프로그래밍 기초 1   |<details><summary>:white_check_mark: Finished</summary><p></p></details>|
+|03/20|    03    | 데이터 과학 기반의 빅데이터 분석; 파이썬 프로그래밍 기초 1   |<details><summary>:white_check_mark: Finished</summary><p>[3주차 노트](https://github.com/HyeinYeo/DataPolicy/blob/6784faf4410d1772c252fb7e5d320f132f29752e/data_policy_week3.ipynb)</p></details>|
 |03/27|    04    |    파이썬 프로그래밍 기초 2    |          |
 |04/03|    05    |      오픈 API를 이용한 빅데이터 크롤링 1       |      |
 |04/10|    06    |     오픈 API를 이용한 빅데이터 크롤링 2; 웹페이지 분석 기반 빅데이터 크롤링 1       |      |
